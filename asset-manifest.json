@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/OscarWinners/static/css/main.90154ee9.chunk.css",
+    "main.js": "/OscarWinners/static/js/main.6eba4247.chunk.js",
+    "main.js.map": "/OscarWinners/static/js/main.6eba4247.chunk.js.map",
+    "runtime-main.js": "/OscarWinners/static/js/runtime-main.8f9f1112.js",
+    "runtime-main.js.map": "/OscarWinners/static/js/runtime-main.8f9f1112.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/OscarWinners/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.5a39e62a.chunk.js": "/OscarWinners/static/js/2.5a39e62a.chunk.js",
+    "static/js/2.5a39e62a.chunk.js.map": "/OscarWinners/static/js/2.5a39e62a.chunk.js.map",
+    "index.html": "/OscarWinners/index.html",
+    "precache-manifest.8469dcc2ef922ccb3925a38f131e0a91.js": "/OscarWinners/precache-manifest.8469dcc2ef922ccb3925a38f131e0a91.js",
+    "service-worker.js": "/OscarWinners/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/OscarWinners/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.90154ee9.chunk.css.map": "/OscarWinners/static/css/main.90154ee9.chunk.css.map",
+    "static/js/2.5a39e62a.chunk.js.LICENSE.txt": "/OscarWinners/static/js/2.5a39e62a.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/OscarWinners/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f9f1112.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.5a39e62a.chunk.js",
+    "static/css/main.90154ee9.chunk.css",
+    "static/js/main.6eba4247.chunk.js"
+  ]
+}
